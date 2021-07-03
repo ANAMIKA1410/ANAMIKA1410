@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ANAMIKA1410
+- 👋 Hi, I’m ANAMIKA JAIN , 2nd year CSE student.
 - 👀 I’m interested in Django, python,c++
 - 🌱 I’m currently learning DSA and web development
 - 💞️ I’m looking to collaborate on projects
