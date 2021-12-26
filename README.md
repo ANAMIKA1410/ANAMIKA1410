@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning DSA and web development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me to https://www.linkedin.com/in/anamika-jain-
-- - ![](https://komarev.com/ghpvc/?username=anamika1410)
+
+ ![](https://komarev.com/ghpvc/?username=anamika1410)
 
