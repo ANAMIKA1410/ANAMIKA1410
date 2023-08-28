@@ -1,5 +1,5 @@
-- 👋 Hi, I’m ANAMIKA JAIN , 3rd year CSE student.
-- 👀 I’m interested in Python,C++,C,mySQL
+- 👋 Hi, I’m ANAMIKA JAIN , Final year CSE student.
+- 👀 I’m interested in C#,Python,C++,C,mySQL
 - 🌱 I’m currently learning DSA and Data Science
 - 💞️ I’m looking to collaborate on projects
 
