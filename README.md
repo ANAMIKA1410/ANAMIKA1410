@@ -7,9 +7,9 @@
 
 ### 🔗 Connect with me:
 <!-- style=flat-square& -->
-[![Gmail Badge](https://img.shields.io/badge/-Anamika-D14836?logo=Gmail&logoColor=white&link=mailto:theanamikajain@gmail.com)](mailto:theanamikakjain@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Anamika%20Jain-blue?logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/anamika-jain-/)
-[![Instagram Badge](https://img.shields.io/badge/-AnamikaJain-ac28a3?logo=instagram&logoColor=white&link=https://instagram.com/__anamika.jain__/)](https://www.instagram.com/__anamika.jain__/?hl=en)
+[![Gmail Badge](https://img.shields.io/badge/-Anamika-D14836?logo=Gmail&logoColor=white&link=mailto:theanamikajain@gmail.com)](mailto:jainyashi142002@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Anamika%20Jain-blue?logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/anamika-jain1/)
+[![Instagram Badge](https://img.shields.io/badge/-AnamikaJain-ac28a3?logo=instagram&logoColor=white&link=https://instagram.com/__anamika.jain__/)](https://www.instagram.com/__anamika.jain/?hl=en)
 [![Twitter](https://img.shields.io/badge/@AnamikaJain-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/begineeryaj)
 
 
