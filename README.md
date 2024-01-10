@@ -2,6 +2,7 @@
 - 👀 I’m interested in C#,Python,C++,C,mySQL
 - 🌱 I’m currently learning DSA and Data Science
 - 💞️ I’m looking to collaborate on projects
+- 👋 How to reach me jainyashi142002@gmail.com
 
 <br/>
 
