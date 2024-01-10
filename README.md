@@ -1,6 +1,13 @@
 - 👋 Hi, I’m ANAMIKA JAIN , Final year CSE student.
 - 👀 I’m interested in C#,Python,C++,C,mySQL
 - 🌱 I’m currently learning DSA and Data Science
+- 🌱 Former SWE intern'23 Microsoft
+- 🌱 Smart India Hackathon 2023 Winner
+- 🌱 Google Developers Student club lead and founder of University
+- 🌱 Gitsetcode Girls community founder and mentor
+- 🌱 Google WE'21 among Top-200 Girls in first year
+- 🌱 Microsoft Learn Student Developer
+- 🌱 Virtual Grace Hopper Celebration Scholar vGHC'21
 - 💞️ I’m looking to collaborate on projects
 - 👋 How to reach me jainyashi142002@gmail.com
 
