@@ -9,7 +9,8 @@
 - 🌱 Microsoft Learn Student Developer
 - 🌱 Virtual Grace Hopper Celebration Scholar vGHC'21
 - 💞️ I’m looking to collaborate on projects
-- 👋 How to reach me jainyashi142002@gmail.com
+- 👋 How to reach me https://www.linkedin.com/in/anamika-jain1/
+    jainyashi142002@gmail.com
 
 <br/>
 
