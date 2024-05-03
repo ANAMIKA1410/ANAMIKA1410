@@ -8,7 +8,7 @@
 - 🌱 Google WE'21 among Top-200 Girls in first year
 - 🌱 Microsoft Learn Student Developer
 - 🌱 Virtual Grace Hopper Celebration Scholar vGHC'21
-- 💞️ I’m looking to collaborate on projects
+- 👋  I’m looking to collaborate on projects
 - 👋 How to reach me https://www.linkedin.com/in/anamika-jain1/
 
 
