@@ -1,4 +1,5 @@
-- 👋 Hi, I’m ANAMIKA JAIN , Final year CSE student.
+- 👋 Hi, I’m ANAMIKA JAIN .
+- Currently working as Software Developer at Yash Technologies - Tech : Python, React, FastAPI, AWS, Docker
 - 👀 I’m interested in C#,Python,C++,C,mySQL
 - 🌱 I’m currently learning DSA and Data Science
 - 🌱 Former SWE intern'23 Microsoft
