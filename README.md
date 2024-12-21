@@ -1,8 +1,9 @@
 - 👋 Hi, I’m ANAMIKA JAIN .
-- Currently working as Software Developer at Yash Technologies - Tech : Python, React, FastAPI, AWS, Docker
-- 👀 I’m interested in C#,Python,C++,C,mySQL
-- 🌱 I’m currently learning DSA and Data Science
+- 👀 Looking for Job Opportunites in Software Development and Produt Management role
+- 👩‍💻Currently working as Software Developer at Yash Technologies - Tech : Python, React, FastAPI, AWS, Docker
 - 🌱 Former SWE intern'23 Microsoft
+- 👀 I’m interested C#,Python,C++,C,mySQL,AWS
+- 🌱 I’m currently learning DSA and Data Science
 - 🌱 Smart India Hackathon 2023 Winner
 - 🌱 Google Developers Student club lead and founder of University
 - 🌱 Gitsetcode Girls community founder and mentor
